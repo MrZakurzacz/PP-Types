@@ -1,0 +1,14 @@
+C:\C#\PP-Types-master\PP-Types\bin\Debug\net8.0\PP-Types.exe
+C:\C#\PP-Types-master\PP-Types\bin\Debug\net8.0\PP-Types.deps.json
+C:\C#\PP-Types-master\PP-Types\bin\Debug\net8.0\PP-Types.runtimeconfig.json
+C:\C#\PP-Types-master\PP-Types\bin\Debug\net8.0\PP-Types.dll
+C:\C#\PP-Types-master\PP-Types\bin\Debug\net8.0\PP-Types.pdb
+C:\C#\PP-Types-master\PP-Types\obj\Debug\net8.0\PP-Types.GeneratedMSBuildEditorConfig.editorconfig
+C:\C#\PP-Types-master\PP-Types\obj\Debug\net8.0\PP-Types.AssemblyInfoInputs.cache
+C:\C#\PP-Types-master\PP-Types\obj\Debug\net8.0\PP-Types.AssemblyInfo.cs
+C:\C#\PP-Types-master\PP-Types\obj\Debug\net8.0\PP-Types.csproj.CoreCompileInputs.cache
+C:\C#\PP-Types-master\PP-Types\obj\Debug\net8.0\PP-Types.dll
+C:\C#\PP-Types-master\PP-Types\obj\Debug\net8.0\refint\PP-Types.dll
+C:\C#\PP-Types-master\PP-Types\obj\Debug\net8.0\PP-Types.pdb
+C:\C#\PP-Types-master\PP-Types\obj\Debug\net8.0\PP-Types.genruntimeconfig.cache
+C:\C#\PP-Types-master\PP-Types\obj\Debug\net8.0\ref\PP-Types.dll

@@ -12,10 +12,16 @@ string[] names = {
 // Print all array elements, *perLine* elements per one line
 // After all elements except last one should be ", " - also on the end of lines.
 // After last element should be ".".
-void PrintGroups(string[] t, int perLine)
-{
-
-    // Write required code.
+void PrintGroups(string[] t, int perLine){
+    for (int i = 0; i < t.Length; i++){
+        Console.Write(t[i]);
+        if (i < t.Length - 1){
+            Console.Write(", ");
+        }
+        if ((i + 1) % perLine == 0){
+            Console.WriteLine();
+        }
+    }
 
 }
 
@@ -25,10 +31,20 @@ void PrintGroups(string[] t, int perLine)
 // Columns should be separated by "| ".
 // If element is too long it should be trimmed.
 
-void PrintColumns(string[] t, int perLine, int width)
-{
-
-    // Write required code.
+void PrintColumns(string[] t, int perLine, int width){
+    for (int i = 0; i < t.Length; i++) {
+        string name = t[i];//   Get the name
+        if (name.Length > width){
+            name = name.Substring(0, width);
+        }
+        Console.Write(name.PadRight(width));
+        if ((i + 1) % perLine == 0){
+            Console.WriteLine();
+        }
+        else{
+            Console.Write("| ");
+        }
+    }
 
 }
 
